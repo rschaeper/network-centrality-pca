@@ -1,0 +1,492 @@
+Source	Target	Weight	 Name	 Rank
+ IRS1	UL141	  0.5	HCMV_IRS1_HCMV_UL141_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ IRS1	 UL27	  0.5	HCMV_IRS1_HCMV_UL27_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ IRS1	 UL45	 0.56	HCMV_IRS1_HCMV_UL45_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ IRS1	 UL77	 0.51	HCMV_IRS1_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ IRS1	 UL79	 0.49	HCMV_IRS1_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ IRS1	 UL94	 0.64	HCMV_IRS1_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ IRS1	 US24	 0.53	HCMV_IRS1_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ IRS1	 US31	 0.48	HCMV_IRS1_HCMV_US31_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+IRS1_IRS1-263	UL147	  0.6	HCMV_IRS1_IRS1-263_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+IRS1_IRS1-263	 UL75	 0.51	HCMV_IRS1_IRS1-263_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  RL1	 UL52	 0.52	HCMV_RL1_HCMV_UL52_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  RL1	 UL94	 0.57	HCMV_RL1_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ RL10	UL111A	 0.51	HCMV_RL10_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ RL12	UL102	 0.61	HCMV_RL12_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ RL12	UL111A	 0.48	HCMV_RL12_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ RL12	 UL18	 0.49	HCMV_RL12_HCMV_UL18_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ RL12	 UL26	 0.58	HCMV_RL12_HCMV_UL26_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ RL12	UL26_UL26.21	 0.73	HCMV_RL12_HCMV_UL26_UL26.21_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ RL12	UL30A	 0.73	HCMV_RL12_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ RL12	 UL72	 0.49	HCMV_RL12_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ RL12	 UL82	  0.5	HCMV_RL12_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ RL12	 UL94	 0.67	HCMV_RL12_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ RL13	 UL52	 0.48	HCMV_RL13_HCMV_UL52_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ RL13	 UL83	 0.65	HCMV_RL13_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ RL13	 UL94	 0.58	HCMV_RL13_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ RL13	 UL98	 0.57	HCMV_RL13_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ RL13	 US13	 0.56	HCMV_RL13_HCMV_US13_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ RL5A	UL147	 0.63	HCMV_RL5A_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ RL5A	 UL70	 0.63	HCMV_RL5A_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ RL5A	 UL79	 0.48	HCMV_RL5A_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ RL5A	 UL97	 0.52	HCMV_RL5A_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  RL6	 RL5A	 0.65	HCMV_RL6_HCMV_RL5A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+  RL6	UL102	 0.48	HCMV_RL6_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  RL6	UL123	  0.5	HCMV_RL6_HCMV_UL123_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  RL6	UL144	 0.48	HCMV_RL6_HCMV_UL144_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+  RL6	UL146	 0.64	HCMV_RL6_HCMV_UL146_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  RL6	UL35_UL35A	 0.54	HCMV_RL6_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  RL6	UL37_pUL37m	 0.49	HCMV_RL6_HCMV_UL37_pUL37m_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  RL6	 UL56	 0.54	HCMV_RL6_HCMV_UL56_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  RL6	 UL76	 0.66	HCMV_RL6_HCMV_UL76_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  RL6	 UL82	 0.55	HCMV_RL6_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ RL8A	 UL82	 0.54	HCMV_RL8A_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ TRS1	UL141	 0.52	HCMV_TRS1_HCMV_UL141_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ TRS1	UL146	 0.53	HCMV_TRS1_HCMV_UL146_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ TRS1	 UL45	 0.53	HCMV_TRS1_HCMV_UL45_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ TRS1	 UL46	 0.62	HCMV_TRS1_HCMV_UL46_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ TRS1	 UL72	 0.49	HCMV_TRS1_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ TRS1	 UL83	 0.54	HCMV_TRS1_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ TRS1	 UL88	  0.5	HCMV_TRS1_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ TRS1	 UL94	 0.64	HCMV_TRS1_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ TRS1	 UL98	 0.63	HCMV_TRS1_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL1	 UL10	 0.48	HCMV_UL1_HCMV_UL10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL1	UL102	 0.49	HCMV_UL1_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+  UL1	 US24	  0.5	HCMV_UL1_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL1	 US28	 0.48	HCMV_UL1_HCMV_US28_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL10	UL147	 0.56	HCMV_UL10_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL10	  UL4	 0.61	HCMV_UL10_HCMV_UL4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL100	 UL73	 0.71	HCMV_UL100_HCMV_UL73_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL100	 UL75	 0.63	HCMV_UL100_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL100	 UL94	 0.63	HCMV_UL100_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL102	UL102	 0.76	HCMV_UL102_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL102	UL124	 0.53	HCMV_UL102_HCMV_UL124_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL102	UL150	  0.5	HCMV_UL102_HCMV_UL150_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL102	 UL19	 0.63	HCMV_UL102_HCMV_UL19_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL102	UL30A	 0.72	HCMV_UL102_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL102	 UL70	 0.71	HCMV_UL102_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL102	 UL98	 0.68	HCMV_UL102_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL102	  US1	 0.55	HCMV_UL102_HCMV_US1_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL102	 US32	 0.61	HCMV_UL102_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL102	  US6	 0.55	HCMV_UL102_HCMV_US6_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL103	UL103	 0.54	HCMV_UL103_HCMV_UL103_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL103	UL105	 0.52	HCMV_UL103_HCMV_UL105_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL103	UL112-113	  0.7	HCMV_UL103_HCMV_UL112-113_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL103	UL112-113_p43	 0.62	HCMV_UL103_HCMV_UL112-113_p43_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	UL112-113_p50	  0.7	HCMV_UL103_HCMV_UL112-113_p50_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL103	UL122	 0.55	HCMV_UL103_HCMV_UL122_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL103	 UL17	 0.58	HCMV_UL103_HCMV_UL17_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL103	 UL30	 0.58	HCMV_UL103_HCMV_UL30_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 UL32	 0.73	HCMV_UL103_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 UL35	  0.6	HCMV_UL103_HCMV_UL35_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 UL50	 0.71	HCMV_UL103_HCMV_UL50_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL103	 UL54	  0.6	HCMV_UL103_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 UL71	  0.8	HCMV_UL103_HCMV_UL71_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 UL77	 0.51	HCMV_UL103_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL103	 US10	 0.63	HCMV_UL103_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL103	 US15	 0.49	HCMV_UL103_HCMV_US15_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL103	 US29	 0.55	HCMV_UL103_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL104	UL104	 0.49	HCMV_UL104_HCMV_UL104_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL104	 UL79	 0.52	HCMV_UL104_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL104	 UL80	 0.48	HCMV_UL104_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL105	UL111A	 0.56	HCMV_UL105_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL105	UL112-113	 0.64	HCMV_UL105_HCMV_UL112-113_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL105	 UL34	 0.48	HCMV_UL105_HCMV_UL34_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL105	UL48A	 0.72	HCMV_UL105_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL105	 UL54	 0.58	HCMV_UL105_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL105	 UL70	 0.76	HCMV_UL105_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL105	 UL75	 0.56	HCMV_UL105_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL105	 UL96	 0.49	HCMV_UL105_HCMV_UL96_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL11	UL102	 0.55	HCMV_UL11_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL11	 UL37	  0.5	HCMV_UL11_HCMV_UL37_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL11	 US18	  0.5	HCMV_UL11_HCMV_US18_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL111A	UL111A	 0.74	HCMV_UL111A_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	UL112-113	 0.54	HCMV_UL111A_HCMV_UL112-113_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL111A	UL114	 0.56	HCMV_UL111A_HCMV_UL114_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	UL123	 0.51	HCMV_UL111A_HCMV_UL123_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL111A	 UL32	 0.58	HCMV_UL111A_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL111A	 UL50	 0.62	HCMV_UL111A_HCMV_UL50_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	 UL76	 0.51	HCMV_UL111A_HCMV_UL76_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	 UL91	 0.57	HCMV_UL111A_HCMV_UL91_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	 UL95	 0.48	HCMV_UL111A_HCMV_UL95_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL111A	 UL99	 0.52	HCMV_UL111A_HCMV_UL99_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL111A	  US1	 0.56	HCMV_UL111A_HCMV_US1_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	 US31	 0.65	HCMV_UL111A_HCMV_US31_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL111A	 US32	 0.51	HCMV_UL111A_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL111A	  US6	 0.59	HCMV_UL111A_HCMV_US6_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113	UL123	 0.58	HCMV_UL112-113_HCMV_UL123_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL112-113	UL145	 0.55	HCMV_UL112-113_HCMV_UL145_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL112-113	UL146	 0.52	HCMV_UL112-113_HCMV_UL146_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL112-113	UL147	 0.62	HCMV_UL112-113_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113	 UL75	 0.58	HCMV_UL112-113_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL112-113	 UL82	 0.67	HCMV_UL112-113_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL112-113	 UL97	  0.5	HCMV_UL112-113_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL112-113	US34A	 0.55	HCMV_UL112-113_HCMV_US34A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL112-113_p34	 UL50	 0.48	HCMV_UL112-113_p34_HCMV_UL50_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113_p34	 UL75	 0.56	HCMV_UL112-113_p34_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL112-113_p34	 UL94	  0.5	HCMV_UL112-113_p34_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL112-113_p43	 UL72	  0.5	HCMV_UL112-113_p43_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL112-113_p43	 UL75	 0.53	HCMV_UL112-113_p43_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL112-113_p43	 UL82	 0.54	HCMV_UL112-113_p43_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113_p43	 UL88	 0.67	HCMV_UL112-113_p43_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113_p50	 UL72	  0.5	HCMV_UL112-113_p50_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL112-113_p50	 UL75	 0.57	HCMV_UL112-113_p50_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL112-113_p50	 UL82	 0.49	HCMV_UL112-113_p50_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL112-113_p50	 UL94	  0.6	HCMV_UL112-113_p50_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL114	UL114	 0.84	HCMV_UL114_HCMV_UL114_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL114	UL123	 0.55	HCMV_UL114_HCMV_UL123_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL114	UL124	 0.73	HCMV_UL114_HCMV_UL124_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL114	UL132	 0.61	HCMV_UL114_HCMV_UL132_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL114	UL144	 0.58	HCMV_UL114_HCMV_UL144_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL114	 UL32	 0.57	HCMV_UL114_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL114	UL37_vMIA	 0.66	HCMV_UL114_HCMV_UL37_vMIA_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL114	 UL48	  0.7	HCMV_UL114_HCMV_UL48_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL114	 UL54	 0.67	HCMV_UL114_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL114	 UL79	 0.53	HCMV_UL114_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL114	 UL94	 0.55	HCMV_UL114_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL114	 UL97	 0.74	HCMV_UL114_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL115	UL116	 0.52	HCMV_UL115_HCMV_UL116_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL115	 UL40	 0.48	HCMV_UL115_HCMV_UL40_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL115	 UL54	 0.56	HCMV_UL115_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL115	 UL74	 0.64	HCMV_UL115_HCMV_UL74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL115	 UL75	  0.8	HCMV_UL115_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL115	 UL80	 0.52	HCMV_UL115_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL116	UL48A	  0.6	HCMV_UL116_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL116	 UL75	 0.62	HCMV_UL116_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL117	UL117	 0.51	HCMV_UL117_HCMV_UL117_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL117	UL117_UL117.5	 0.61	HCMV_UL117_HCMV_UL117_UL117.5_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL117	 UL72	 0.49	HCMV_UL117_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL117	 UL77	 0.51	HCMV_UL117_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL117	 UL85	 0.52	HCMV_UL117_HCMV_UL85_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL117_UL117.5	UL117_UL117.5	 0.58	HCMV_UL117_UL117.5_HCMV_UL117_UL117.5_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL117_UL117.5	UL122	 0.56	HCMV_UL117_UL117.5_HCMV_UL122_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL117_UL117.5	UL130	 0.49	HCMV_UL117_UL117.5_HCMV_UL130_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL117_UL117.5	 UL77	  0.5	HCMV_UL117_UL117.5_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL120	UL30A	  0.6	HCMV_UL120_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL121	 UL71	 0.48	HCMV_UL121_HCMV_UL71_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL121	 US30	 0.53	HCMV_UL121_HCMV_US30_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL122	UL122	 0.48	HCMV_UL122_HCMV_UL122_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL122	UL146	 0.49	HCMV_UL122_HCMV_UL146_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL122	 UL45	 0.52	HCMV_UL122_HCMV_UL45_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL122	 UL79	 0.53	HCMV_UL122_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL122	 UL83	  0.5	HCMV_UL122_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL122	 UL94	 0.51	HCMV_UL122_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL122	 UL97	  0.5	HCMV_UL122_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL122	 US10	  0.5	HCMV_UL122_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL123	UL123	 0.64	HCMV_UL123_HCMV_UL123_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL123	UL144	  0.5	HCMV_UL123_HCMV_UL144_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL123	 UL32	  0.5	HCMV_UL123_HCMV_UL32_scores_rank_002_alphafold2_multimer_v3_model_3_seed_000	  002
+UL123	UL35_UL35A	 0.49	HCMV_UL123_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL124	UL146	 0.54	HCMV_UL124_HCMV_UL146_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL124	UL147	 0.58	HCMV_UL124_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL124	 UL54	 0.48	HCMV_UL124_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL124	 US10	 0.52	HCMV_UL124_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL128	UL147	 0.65	HCMV_UL128_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL128	UL30A	 0.61	HCMV_UL128_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL13	 UL77	 0.54	HCMV_UL13_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL13	 UL86	 0.55	HCMV_UL13_HCMV_UL86_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL13	 US10	 0.58	HCMV_UL13_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL130	UL131A	 0.76	HCMV_UL130_HCMV_UL131A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL130	UL147	 0.52	HCMV_UL130_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL130	UL48A	 0.59	HCMV_UL130_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL130	 US29	 0.51	HCMV_UL130_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL132	UL147	 0.61	HCMV_UL132_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL132	 US10	 0.55	HCMV_UL132_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL135	 UL82	 0.66	HCMV_UL135_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL135	 US10	 0.48	HCMV_UL135_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL136	UL147	  0.5	HCMV_UL136_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL136	 UL72	 0.53	HCMV_UL136_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL136	 UL79	 0.54	HCMV_UL136_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL136	 UL88	  0.5	HCMV_UL136_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL139	 UL77	 0.51	HCMV_UL139_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL14	UL115	 0.57	HCMV_UL14_HCMV_UL115_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL14	  UL4	 0.51	HCMV_UL14_HCMV_UL4_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL14	 UL70	 0.52	HCMV_UL14_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL14	 UL72	 0.58	HCMV_UL14_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL14	 UL98	 0.55	HCMV_UL14_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL14	 US10	 0.56	HCMV_UL14_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL140	UL147	  0.6	HCMV_UL140_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL140	 UL75	 0.51	HCMV_UL140_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL140	 UL83	 0.52	HCMV_UL140_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL141	UL141	 0.49	HCMV_UL141_HCMV_UL141_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL141	  UL4	 0.68	HCMV_UL141_HCMV_UL4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL144	UL22A	 0.49	HCMV_UL144_HCMV_UL22A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL146	 UL20	 0.55	HCMV_UL146_HCMV_UL20_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	UL21A	 0.51	HCMV_UL146_HCMV_UL21A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	 UL32	 0.63	HCMV_UL146_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	UL35_UL35A	 0.53	HCMV_UL146_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL146	 UL54	 0.56	HCMV_UL146_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL146	 UL80	 0.64	HCMV_UL146_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	UL80_UL80.3	 0.68	HCMV_UL146_HCMV_UL80_UL80.3_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	UL80_UL80.4	 0.66	HCMV_UL146_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	UL80_pAP	 0.68	HCMV_UL146_HCMV_UL80_pAP_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL146	 UL97	 0.63	HCMV_UL146_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL146	 UL99	  0.5	HCMV_UL146_HCMV_UL99_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL146	  US6	 0.48	HCMV_UL146_HCMV_US6_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL147	UL148B	 0.58	HCMV_UL147_HCMV_UL148B_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	UL148C	 0.51	HCMV_UL147_HCMV_UL148C_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	UL150A	 0.56	HCMV_UL147_HCMV_UL150A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 UL20	  0.5	HCMV_UL147_HCMV_UL20_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	UL21A	  0.6	HCMV_UL147_HCMV_UL21A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL147	UL22A	 0.59	HCMV_UL147_HCMV_UL22A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 UL30	 0.65	HCMV_UL147_HCMV_UL30_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL147	UL30A	 0.69	HCMV_UL147_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	UL35_UL35A	 0.54	HCMV_UL147_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	UL41A	 0.57	HCMV_UL147_HCMV_UL41A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 UL46	  0.5	HCMV_UL147_HCMV_UL46_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	 UL50	 0.53	HCMV_UL147_HCMV_UL50_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL147	 UL71	 0.54	HCMV_UL147_HCMV_UL71_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL147	 UL72	 0.58	HCMV_UL147_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	 UL74	 0.51	HCMV_UL147_HCMV_UL74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 UL79	 0.49	HCMV_UL147_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	UL80_pAP	 0.56	HCMV_UL147_HCMV_UL80_pAP_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL147	 UL93	 0.54	HCMV_UL147_HCMV_UL93_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 US30	 0.54	HCMV_UL147_HCMV_US30_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	 US32	 0.49	HCMV_UL147_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL147	 US34	  0.6	HCMV_UL147_HCMV_US34_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL147	  US7	 0.49	HCMV_UL147_HCMV_US7_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL147A	 UL82	 0.49	HCMV_UL147A_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL148	UL37_pUL37m	 0.57	HCMV_UL148_HCMV_UL37_pUL37m_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL148	  UL6	 0.51	HCMV_UL148_HCMV_UL6_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL148	  US9	 0.54	HCMV_UL148_HCMV_US9_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL148B	 UL32	 0.51	HCMV_UL148B_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL148D	 US10	 0.55	HCMV_UL148D_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL150	 UL79	 0.49	HCMV_UL150_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL150A	 UL94	 0.53	HCMV_UL150A_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL16	 US10	 0.56	HCMV_UL16_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL18	UL103	 0.66	HCMV_UL18_HCMV_UL103_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL18	UL112-113_p43	 0.53	HCMV_UL18_HCMV_UL112-113_p43_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL18	UL37_vMIA	 0.48	HCMV_UL18_HCMV_UL37_vMIA_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL18	 UL46	 0.51	HCMV_UL18_HCMV_UL46_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL18	 UL76	 0.53	HCMV_UL18_HCMV_UL76_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL18	 US11	 0.49	HCMV_UL18_HCMV_US11_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL19	 UL30	 0.55	HCMV_UL19_HCMV_UL30_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL19	 UL32	 0.54	HCMV_UL19_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL19	UL48A	  0.6	HCMV_UL19_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL19	 UL54	 0.55	HCMV_UL19_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL19	  US1	 0.62	HCMV_UL19_HCMV_US1_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+  UL2	 UL94	 0.58	HCMV_UL2_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL20	 UL32	 0.59	HCMV_UL20_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL20	 UL35	 0.52	HCMV_UL20_HCMV_UL35_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL23	UL147	 0.61	HCMV_UL23_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL23	 UL36	 0.49	HCMV_UL23_HCMV_UL36_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL24	 UL26	  0.5	HCMV_UL24_HCMV_UL26_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL24	 UL98	 0.62	HCMV_UL24_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL24	 US24	 0.52	HCMV_UL24_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL25	 UL25	 0.67	HCMV_UL25_HCMV_UL25_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL25	 UL35	 0.63	HCMV_UL25_HCMV_UL35_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL25	 UL79	 0.51	HCMV_UL25_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL26	UL103	 0.48	HCMV_UL26_HCMV_UL103_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL26	UL147	 0.54	HCMV_UL26_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL26	UL26_UL26.21	 0.63	HCMV_UL26_HCMV_UL26_UL26.21_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL26	UL30A	 0.52	HCMV_UL26_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL26	  UL4	 0.49	HCMV_UL26_HCMV_UL4_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL26	 UL79	 0.63	HCMV_UL26_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL26	 UL84	 0.49	HCMV_UL26_HCMV_UL84_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL26	 UL98	 0.56	HCMV_UL26_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL26	 US24	 0.49	HCMV_UL26_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL26	 US30	  0.5	HCMV_UL26_HCMV_US30_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL26_UL26.21	UL100	 0.52	HCMV_UL26_UL26.21_HCMV_UL100_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL26_UL26.21	UL131A	  0.6	HCMV_UL26_UL26.21_HCMV_UL131A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL26_UL26.21	UL147	 0.58	HCMV_UL26_UL26.21_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL26_UL26.21	 UL29	 0.51	HCMV_UL26_UL26.21_HCMV_UL29_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL26_UL26.21	UL30A	  0.7	HCMV_UL26_UL26.21_HCMV_UL30A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL26_UL26.21	UL37_vMIA	 0.53	HCMV_UL26_UL26.21_HCMV_UL37_vMIA_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL26_UL26.21	  UL4	 0.54	HCMV_UL26_UL26.21_HCMV_UL4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL26_UL26.21	 UL44	 0.48	HCMV_UL26_UL26.21_HCMV_UL44_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL26_UL26.21	 UL69	 0.52	HCMV_UL26_UL26.21_HCMV_UL69_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL26_UL26.21	 UL74	 0.58	HCMV_UL26_UL26.21_HCMV_UL74_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL26_UL26.21	 UL79	 0.75	HCMV_UL26_UL26.21_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL26_UL26.21	 UL87	 0.54	HCMV_UL26_UL26.21_HCMV_UL87_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL26_UL26.21	 UL92	 0.58	HCMV_UL26_UL26.21_HCMV_UL92_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL26_UL26.21	 UL94	 0.76	HCMV_UL26_UL26.21_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL26_UL26.21	 UL97	 0.67	HCMV_UL26_UL26.21_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL26_UL26.21	 UL98	 0.56	HCMV_UL26_UL26.21_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL26_UL26.21	 US24	 0.51	HCMV_UL26_UL26.21_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL26_UL26.21	 US31	 0.51	HCMV_UL26_UL26.21_HCMV_US31_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL27	UL111A	 0.57	HCMV_UL27_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	UL131A	  0.5	HCMV_UL27_HCMV_UL131A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL27	UL148D	 0.51	HCMV_UL27_HCMV_UL148D_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL27	 UL25	 0.56	HCMV_UL27_HCMV_UL25_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	 UL30	 0.61	HCMV_UL27_HCMV_UL30_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL27	 UL32	 0.65	HCMV_UL27_HCMV_UL32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	 UL34	 0.51	HCMV_UL27_HCMV_UL34_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL27	UL35_UL35A	 0.49	HCMV_UL27_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	UL41A	 0.49	HCMV_UL27_HCMV_UL41A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL27	 UL42	 0.57	HCMV_UL27_HCMV_UL42_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL27	UL48A	  0.7	HCMV_UL27_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL27	 UL54	 0.52	HCMV_UL27_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	 UL80	 0.56	HCMV_UL27_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL27	UL80_pAP	 0.58	HCMV_UL27_HCMV_UL80_pAP_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL27	 US23	 0.65	HCMV_UL27_HCMV_US23_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL29	UL147	 0.55	HCMV_UL29_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL29	 UL38	 0.52	HCMV_UL29_HCMV_UL38_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL29	 UL46	 0.64	HCMV_UL29_HCMV_UL46_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL30A	 UL70	  0.6	HCMV_UL30A_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL31	 UL31	 0.74	HCMV_UL31_HCMV_UL31_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL31	 US10	 0.52	HCMV_UL31_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL32	UL48A	 0.72	HCMV_UL32_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL32	 UL54	 0.57	HCMV_UL32_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL32	 UL57	 0.63	HCMV_UL32_HCMV_UL57_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL32	 UL77	 0.52	HCMV_UL32_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL32	 UL85	 0.51	HCMV_UL32_HCMV_UL85_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL32	 UL98	 0.52	HCMV_UL32_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL32	 US32	  0.5	HCMV_UL32_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL32	US33A	 0.53	HCMV_UL32_HCMV_US33A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL33	IRS1_IRS1-263	 0.55	HCMV_UL33_HCMV_IRS1_IRS1-263_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL33	UL100	 0.65	HCMV_UL33_HCMV_UL100_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	UL120	 0.62	HCMV_UL33_HCMV_UL120_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	UL124	 0.64	HCMV_UL33_HCMV_UL124_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	 UL37	 0.62	HCMV_UL33_HCMV_UL37_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	 UL40	 0.54	HCMV_UL33_HCMV_UL40_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	 UL46	 0.63	HCMV_UL33_HCMV_UL46_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL33	 UL72	 0.56	HCMV_UL33_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL33	UL74A	 0.59	HCMV_UL33_HCMV_UL74A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL33	 US21	 0.58	HCMV_UL33_HCMV_US21_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL33	 US28	 0.72	HCMV_UL33_HCMV_US28_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL33	 US29	 0.54	HCMV_UL33_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL34	 UL83	 0.56	HCMV_UL34_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL35	 UL35	 0.74	HCMV_UL35_HCMV_UL35_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL35	UL35_UL35A	 0.63	HCMV_UL35_HCMV_UL35_UL35A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL35	 UL82	 0.71	HCMV_UL35_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL35_UL35A	 UL79	 0.51	HCMV_UL35_UL35A_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL35_UL35A	 UL82	 0.73	HCMV_UL35_UL35A_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL35_UL35A	 UL94	 0.55	HCMV_UL35_UL35A_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL36	UL102	  0.5	HCMV_UL36_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL36	 UL43	  0.6	HCMV_UL36_HCMV_UL43_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL36	 UL80	 0.54	HCMV_UL36_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL36	 UL83	 0.53	HCMV_UL36_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL36	 UL86	 0.53	HCMV_UL36_HCMV_UL86_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL36	 US28	 0.48	HCMV_UL36_HCMV_US28_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL37	 RL5A	 0.53	HCMV_UL37_HCMV_RL5A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL37	 UL31	 0.48	HCMV_UL37_HCMV_UL31_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL37	 UL75	 0.56	HCMV_UL37_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL37	 UL82	 0.59	HCMV_UL37_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL37	  US2	 0.58	HCMV_UL37_HCMV_US2_scores_rank_002_alphafold2_multimer_v3_model_2_seed_000	  002
+UL37_pUL37m	 UL82	  0.6	HCMV_UL37_pUL37m_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL37_pUL37m	  US2	 0.56	HCMV_UL37_pUL37m_HCMV_US2_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL37_pUL37m	 US20	 0.51	HCMV_UL37_pUL37m_HCMV_US20_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+UL37_pUL37m	 US28	 0.49	HCMV_UL37_pUL37m_HCMV_US28_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL37_vMIA	 UL79	 0.73	HCMV_UL37_vMIA_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+UL37_vMIA	 UL92	 0.53	HCMV_UL37_vMIA_HCMV_UL92_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL4	UL147	 0.66	HCMV_UL4_HCMV_UL147_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL4	UL21A	 0.49	HCMV_UL4_HCMV_UL21A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL4	 UL34	 0.56	HCMV_UL4_HCMV_UL34_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  UL4	 UL71	 0.48	HCMV_UL4_HCMV_UL71_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL4	 UL97	 0.48	HCMV_UL4_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL4	 UL99	 0.56	HCMV_UL4_HCMV_UL99_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  UL4	 US11	  0.5	HCMV_UL4_HCMV_US11_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  UL4	  US9	 0.66	HCMV_UL4_HCMV_US9_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL40	 UL88	  0.6	HCMV_UL40_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL42	 UL72	  0.5	HCMV_UL42_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL42	 UL82	 0.53	HCMV_UL42_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL42	 UL98	 0.54	HCMV_UL42_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL44	 UL92	 0.48	HCMV_UL44_HCMV_UL92_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL45	UL48A	 0.72	HCMV_UL45_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL45	 UL55	 0.53	HCMV_UL45_HCMV_UL55_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL46	 UL47	 0.56	HCMV_UL46_HCMV_UL47_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL46	 UL80	  0.6	HCMV_UL46_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL46	 UL85	 0.64	HCMV_UL46_HCMV_UL85_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL47	 UL48	 0.57	HCMV_UL47_HCMV_UL48_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL48	UL48A	 0.51	HCMV_UL48_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL48	 UL57	 0.55	HCMV_UL48_HCMV_UL57_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL48	 UL88	 0.77	HCMV_UL48_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL48A	UL48A	 0.68	HCMV_UL48A_HCMV_UL48A_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+UL48A	 UL54	 0.53	HCMV_UL48A_HCMV_UL54_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL48A	 UL70	 0.53	HCMV_UL48A_HCMV_UL70_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL48A	 UL86	 0.86	HCMV_UL48A_HCMV_UL86_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+UL48A	 US29	 0.71	HCMV_UL48A_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL49	 UL79	 0.75	HCMV_UL49_HCMV_UL79_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL49	 UL95	 0.55	HCMV_UL49_HCMV_UL95_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL50	 UL53	 0.58	HCMV_UL50_HCMV_UL53_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL51	 UL56	 0.67	HCMV_UL51_HCMV_UL56_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL52	 UL52	 0.56	HCMV_UL52_HCMV_UL52_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL52	 UL57	 0.52	HCMV_UL52_HCMV_UL57_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL52	 UL76	 0.55	HCMV_UL52_HCMV_UL76_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL52	 UL77	  0.5	HCMV_UL52_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL52	 UL89	  0.6	HCMV_UL52_HCMV_UL89_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL52	US33A	 0.52	HCMV_UL52_HCMV_US33A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL53	 UL88	 0.56	HCMV_UL53_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL54	 UL69	 0.54	HCMV_UL54_HCMV_UL69_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL54	 UL77	 0.54	HCMV_UL54_HCMV_UL77_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL54	 US15	 0.58	HCMV_UL54_HCMV_US15_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL55	 UL55	 0.52	HCMV_UL55_HCMV_UL55_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL55	 UL75	  0.5	HCMV_UL55_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL55	 UL94	 0.48	HCMV_UL55_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL56	 UL56	 0.54	HCMV_UL56_HCMV_UL56_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL56	 UL88	 0.48	HCMV_UL56_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL56	 UL89	 0.74	HCMV_UL56_HCMV_UL89_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL56	 UL93	 0.48	HCMV_UL56_HCMV_UL93_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL57	UL80_UL80.4	  0.5	HCMV_UL57_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL6	UL102	 0.65	HCMV_UL6_HCMV_UL102_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  UL6	 UL98	  0.6	HCMV_UL6_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  UL6	 US28	 0.49	HCMV_UL6_HCMV_US28_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL69	 UL69	 0.48	HCMV_UL69_HCMV_UL69_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL69	 UL82	 0.48	HCMV_UL69_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL69	 UL94	  0.5	HCMV_UL69_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  UL7	UL111A	 0.51	HCMV_UL7_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  UL7	 UL82	 0.49	HCMV_UL7_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL7	 US13	 0.51	HCMV_UL7_HCMV_US13_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL70	 UL76	 0.48	HCMV_UL70_HCMV_UL76_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL70	US33A	 0.51	HCMV_UL70_HCMV_US33A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL72	 UL75	 0.58	HCMV_UL72_HCMV_UL75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL72	UL80_UL80.4	 0.54	HCMV_UL72_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL72	 US10	 0.48	HCMV_UL72_HCMV_US10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL72	 US29	 0.48	HCMV_UL72_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL72	US33A	 0.57	HCMV_UL72_HCMV_US33A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL75	 UL80	 0.57	HCMV_UL75_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL75	UL80_UL80.3	  0.6	HCMV_UL75_HCMV_UL80_UL80.3_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL75	UL80_UL80.4	 0.61	HCMV_UL75_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL75	UL80_pAP	  0.5	HCMV_UL75_HCMV_UL80_pAP_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL77	UL80_UL80.4	 0.59	HCMV_UL77_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL77	UL80_pAP	  0.6	HCMV_UL77_HCMV_UL80_pAP_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL77	 UL93	 0.58	HCMV_UL77_HCMV_UL93_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL78	 US20	  0.5	HCMV_UL78_HCMV_US20_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL79	 UL80	 0.48	HCMV_UL79_HCMV_UL80_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL79	UL80_UL80.4	  0.5	HCMV_UL79_HCMV_UL80_UL80.4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL79	 UL87	 0.59	HCMV_UL79_HCMV_UL87_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL79	 UL91	 0.78	HCMV_UL79_HCMV_UL91_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL79	 UL95	  0.6	HCMV_UL79_HCMV_UL95_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL79	  US1	 0.53	HCMV_UL79_HCMV_US1_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  UL8	UL121	 0.49	HCMV_UL8_HCMV_UL121_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL8	 UL98	 0.61	HCMV_UL8_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL8	 US13	 0.64	HCMV_UL8_HCMV_US13_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL80	 UL98	  0.5	HCMV_UL80_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+UL80_pAP	 UL98	 0.49	HCMV_UL80_pAP_HCMV_UL98_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL82	 UL82	 0.74	HCMV_UL82_HCMV_UL82_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL82	 UL94	  0.5	HCMV_UL82_HCMV_UL94_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL82	 UL97	 0.57	HCMV_UL82_HCMV_UL97_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL82	 US29	 0.51	HCMV_UL82_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL82	 US32	 0.54	HCMV_UL82_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL82	US34A	  0.5	HCMV_UL82_HCMV_US34A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ UL83	 UL83	 0.76	HCMV_UL83_HCMV_UL83_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL85	 UL85	 0.64	HCMV_UL85_HCMV_UL85_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ UL86	 UL86	 0.59	HCMV_UL86_HCMV_UL86_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL87	 UL95	 0.56	HCMV_UL87_HCMV_UL95_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL88	 UL93	 0.52	HCMV_UL88_HCMV_UL93_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+  UL9	UL111A	 0.61	HCMV_UL9_HCMV_UL111A_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL9	 UL72	 0.52	HCMV_UL9_HCMV_UL72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  UL9	 UL88	 0.73	HCMV_UL9_HCMV_UL88_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL94	 UL99	  0.5	HCMV_UL94_HCMV_UL99_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL94	 US16	 0.59	HCMV_UL94_HCMV_US16_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ UL94	  US6	 0.64	HCMV_UL94_HCMV_US6_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ UL94	  US7	 0.55	HCMV_UL94_HCMV_US7_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ UL98	 US29	 0.49	HCMV_UL98_HCMV_US29_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  US1	 US32	 0.48	HCMV_US1_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+  US1	US33A	 0.51	HCMV_US1_HCMV_US33A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ US12	 US12	 0.56	HCMV_US12_HCMV_US12_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US12	 US13	 0.64	HCMV_US12_HCMV_US13_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ US12	 US20	 0.52	HCMV_US12_HCMV_US20_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ US14	 US20	 0.64	HCMV_US14_HCMV_US20_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ US17	  US2	 0.51	HCMV_US17_HCMV_US2_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US20	  US8	 0.63	HCMV_US20_HCMV_US8_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US22	 US22	 0.69	HCMV_US22_HCMV_US22_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ US22	 US24	 0.61	HCMV_US22_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US23	 US24	 0.79	HCMV_US23_HCMV_US24_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ US23	 US26	 0.65	HCMV_US23_HCMV_US26_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ US28	  US9	 0.49	HCMV_US28_HCMV_US9_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US29	US34A	 0.49	HCMV_US29_HCMV_US34A_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  US3	  US3	 0.48	HCMV_US3_HCMV_US3_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ US31	 US31	 0.48	HCMV_US31_HCMV_US31_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US31	 US32	 0.49	HCMV_US31_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ US32	 US32	 0.53	HCMV_US32_HCMV_US32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001

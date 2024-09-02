@@ -1,0 +1,294 @@
+Source	Target	Weight	 Name	 Rank
+   K1	ORF10	 0.62	KSHV_K1_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K1	ORF33	 0.63	KSHV_K1_KSHV_ORF33_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K1	ORF46	 0.77	KSHV_K1_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+K10.1	ORF10	 0.66	KSHV_K10.1_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+K10.1	ORF18	  0.5	KSHV_K10.1_KSHV_ORF18_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+K10.1	ORF20	 0.53	KSHV_K10.1_KSHV_ORF20_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+K10.1	ORF32	 0.57	KSHV_K10.1_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+K10.1	ORF42	  0.5	KSHV_K10.1_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+K10.1	ORF47	 0.55	KSHV_K10.1_KSHV_ORF47_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+K10.1	ORF59	 0.66	KSHV_K10.1_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+K10.1	ORF62	 0.48	KSHV_K10.1_KSHV_ORF62_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+K10.1	ORF67A	 0.57	KSHV_K10.1_KSHV_ORF67A_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+K10.1	ORF72	 0.77	KSHV_K10.1_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+K10.2	ORF16	 0.48	KSHV_K10.2_KSHV_ORF16_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+K10.2	ORF22	 0.56	KSHV_K10.2_KSHV_ORF22_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+K10.2	ORF54	 0.76	KSHV_K10.2_KSHV_ORF54_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+K11.1	ORF10	 0.63	KSHV_K11.1_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  K14	ORF32	 0.63	KSHV_K14_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+  K14	ORF63	 0.52	KSHV_K14_KSHV_ORF63_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  K14	ORF66	 0.55	KSHV_K14_KSHV_ORF66_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  K14	ORF72	 0.51	KSHV_K14_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  K15	 ORF2	 0.53	KSHV_K15_KSHV_ORF2_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+  K15	ORF33	 0.56	KSHV_K15_KSHV_ORF33_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+  K15	ORF61	  0.5	KSHV_K15_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K2	   K2	 0.66	KSHV_K2_KSHV_K2_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K2	ORF27	 0.61	KSHV_K2_KSHV_ORF27_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K2	ORF46	 0.59	KSHV_K2_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K2	ORF48	 0.62	KSHV_K2_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K2	ORF50	 0.57	KSHV_K2_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K2	ORF61	 0.55	KSHV_K2_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K2	ORF71	 0.64	KSHV_K2_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K2	ORF75	  0.5	KSHV_K2_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K3	ORF10	 0.48	KSHV_K3_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K3	ORF47	 0.49	KSHV_K3_KSHV_ORF47_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K3	ORF72	 0.59	KSHV_K3_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K4	   K4	 0.67	KSHV_K4_KSHV_K4_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K4	   K6	 0.63	KSHV_K4_KSHV_K6_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K4	ORF16	 0.67	KSHV_K4_KSHV_ORF16_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K4	ORF23	 0.58	KSHV_K4_KSHV_ORF23_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K4	ORF40	  0.6	KSHV_K4_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K4	ORF47	 0.49	KSHV_K4_KSHV_ORF47_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K4	ORF48	  0.5	KSHV_K4_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K4	ORF69	  0.5	KSHV_K4_KSHV_ORF69_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K4	ORF74	 0.66	KSHV_K4_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ K4.1	 K4.1	 0.67	KSHV_K4.1_KSHV_K4.1_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ K4.1	ORF10	 0.48	KSHV_K4.1_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ K4.1	ORF45	 0.67	KSHV_K4.1_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ K4.1	ORF72	 0.71	KSHV_K4.1_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ K4.1	ORF74	 0.59	KSHV_K4.1_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ K4.2	ORF11	 0.49	KSHV_K4.2_KSHV_ORF11_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K5	ORF40	 0.65	KSHV_K5_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K5	ORF72	 0.62	KSHV_K5_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K6	   K6	 0.64	KSHV_K6_KSHV_K6_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K6	ORF16	 0.62	KSHV_K6_KSHV_ORF16_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K6	ORF17	 0.58	KSHV_K6_KSHV_ORF17_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K6	ORF23	 0.61	KSHV_K6_KSHV_ORF23_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K6	ORF30	 0.52	KSHV_K6_KSHV_ORF30_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K6	ORF33	 0.56	KSHV_K6_KSHV_ORF33_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K6	ORF40	 0.48	KSHV_K6_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K6	ORF60	 0.57	KSHV_K6_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K6	ORF74	 0.58	KSHV_K6_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K7	ORF10	 0.69	KSHV_K7_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K7	ORF72	 0.59	KSHV_K7_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K8	ORF10	 0.57	KSHV_K8_KSHV_ORF10_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K8	ORF18	 0.51	KSHV_K8_KSHV_ORF18_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K8	ORF19	 0.57	KSHV_K8_KSHV_ORF19_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+   K8	ORF42	 0.64	KSHV_K8_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K8	ORF59	 0.61	KSHV_K8_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K8	ORF63	 0.53	KSHV_K8_KSHV_ORF63_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K8	ORF71	 0.49	KSHV_K8_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K8	ORF72	  0.6	KSHV_K8_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K9	 ORF2	 0.52	KSHV_K9_KSHV_ORF2_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K9	ORF23	  0.6	KSHV_K9_KSHV_ORF23_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K9	ORF31	 0.63	KSHV_K9_KSHV_ORF31_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K9	ORF37	 0.75	KSHV_K9_KSHV_ORF37_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K9	ORF46	 0.72	KSHV_K9_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K9	ORF60	 0.74	KSHV_K9_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+   K9	ORF62	 0.65	KSHV_K9_KSHV_ORF62_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+   K9	ORF64	  0.5	KSHV_K9_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+   K9	ORF70	 0.59	KSHV_K9_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+   K9	 ORF8	 0.51	KSHV_K9_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF10	ORF17	 0.51	KSHV_ORF10_KSHV_ORF17_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF10	ORF24	 0.53	KSHV_ORF10_KSHV_ORF24_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF10	ORF32	 0.67	KSHV_ORF10_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF10	ORF38	 0.49	KSHV_ORF10_KSHV_ORF38_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF10	 ORF4	 0.67	KSHV_ORF10_KSHV_ORF4_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF10	ORF45	 0.49	KSHV_ORF10_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF10	ORF46	 0.75	KSHV_ORF10_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF10	ORF48	 0.53	KSHV_ORF10_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF10	ORF57	 0.71	KSHV_ORF10_KSHV_ORF57_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF10	ORF62	  0.5	KSHV_ORF10_KSHV_ORF62_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF10	ORF64	 0.48	KSHV_ORF10_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF11	ORF21	 0.55	KSHV_ORF11_KSHV_ORF21_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF11	ORF40	 0.58	KSHV_ORF11_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF11	ORF44	 0.69	KSHV_ORF11_KSHV_ORF44_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF11	ORF48	 0.65	KSHV_ORF11_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF11	 ORF8	 0.48	KSHV_ORF11_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF16	ORF19	 0.61	KSHV_ORF16_KSHV_ORF19_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF16	ORF21	 0.49	KSHV_ORF16_KSHV_ORF21_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF16	ORF43	 0.48	KSHV_ORF16_KSHV_ORF43_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF16	ORF55	 0.54	KSHV_ORF16_KSHV_ORF55_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF16	ORF64	 0.51	KSHV_ORF16_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF16	ORF71	  0.5	KSHV_ORF16_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF16	ORF73	 0.63	KSHV_ORF16_KSHV_ORF73_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF16	 ORF8	 0.59	KSHV_ORF16_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17	ORF17	 0.51	KSHV_ORF17_KSHV_ORF17_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF17	ORF32	 0.53	KSHV_ORF17_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF17	ORF33	 0.51	KSHV_ORF17_KSHV_ORF33_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17	ORF36	 0.51	KSHV_ORF17_KSHV_ORF36_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF17	ORF40	 0.63	KSHV_ORF17_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF17	ORF54	 0.65	KSHV_ORF17_KSHV_ORF54_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF17	ORF63	 0.56	KSHV_ORF17_KSHV_ORF63_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF17	ORF70	 0.55	KSHV_ORF17_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF17	ORF72	  0.6	KSHV_ORF17_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF17_pAP	 ORF2	 0.71	KSHV_ORF17_pAP_KSHV_ORF2_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17_pAP	ORF35	 0.57	KSHV_ORF17_pAP_KSHV_ORF35_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF17_pAP	ORF40	 0.63	KSHV_ORF17_pAP_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17_pAP	ORF42	 0.48	KSHV_ORF17_pAP_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17_pAP	ORF67	 0.56	KSHV_ORF17_pAP_KSHV_ORF67_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF17_pAP	ORF68	 0.59	KSHV_ORF17_pAP_KSHV_ORF68_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF17_pAP	ORF70	 0.67	KSHV_ORF17_pAP_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF17_pAP	ORF71	 0.62	KSHV_ORF17_pAP_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF17_pAP	ORF75	 0.51	KSHV_ORF17_pAP_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF18	ORF20	 0.69	KSHV_ORF18_KSHV_ORF20_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF18	ORF24	 0.68	KSHV_ORF18_KSHV_ORF24_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF18	ORF29	  0.6	KSHV_ORF18_KSHV_ORF29_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF18	ORF30	 0.77	KSHV_ORF18_KSHV_ORF30_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF18	ORF32	 0.56	KSHV_ORF18_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF18	ORF34	  0.8	KSHV_ORF18_KSHV_ORF34_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF18	ORF40	 0.68	KSHV_ORF18_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF18	 ORF6	  0.6	KSHV_ORF18_KSHV_ORF6_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF18	ORF64	 0.64	KSHV_ORF18_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF18	ORF66	 0.89	KSHV_ORF18_KSHV_ORF66_scores_rank_002_alphafold2_multimer_v3_model_2_seed_000	  002
+ORF18	ORF67	 0.57	KSHV_ORF18_KSHV_ORF67_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF18	ORF67A	  0.7	KSHV_ORF18_KSHV_ORF67A_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF18	 ORF7	 0.54	KSHV_ORF18_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF19	ORF25	  0.5	KSHV_ORF19_KSHV_ORF25_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF19	ORF32	 0.63	KSHV_ORF19_KSHV_ORF32_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF19	ORF42	  0.5	KSHV_ORF19_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF19	ORF65	 0.48	KSHV_ORF19_KSHV_ORF65_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ ORF2	ORF24	 0.53	KSHV_ORF2_KSHV_ORF24_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ ORF2	ORF40	 0.65	KSHV_ORF2_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ ORF2	ORF45	 0.67	KSHV_ORF2_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ ORF2	ORF46	 0.71	KSHV_ORF2_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF2	ORF72	 0.63	KSHV_ORF2_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF20	ORF36	 0.71	KSHV_ORF20_KSHV_ORF36_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF20	 ORF4	  0.7	KSHV_ORF20_KSHV_ORF4_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF20	ORF45	 0.52	KSHV_ORF20_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF20	ORF46	 0.65	KSHV_ORF20_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF21	ORF21	 0.63	KSHV_ORF21_KSHV_ORF21_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF21	ORF64	 0.49	KSHV_ORF21_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF21	ORF72	  0.5	KSHV_ORF21_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF22	 ORF4	 0.49	KSHV_ORF22_KSHV_ORF4_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF22	ORF47	 0.76	KSHV_ORF22_KSHV_ORF47_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF22	ORF50	 0.68	KSHV_ORF22_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF22	 ORF8	 0.53	KSHV_ORF22_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF23	ORF71	 0.71	KSHV_ORF23_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF23	ORF74	 0.48	KSHV_ORF23_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF23	 ORF8	 0.59	KSHV_ORF23_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF24	ORF34	  0.7	KSHV_ORF24_KSHV_ORF34_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF24	ORF39	 0.49	KSHV_ORF24_KSHV_ORF39_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF24	ORF40	 0.69	KSHV_ORF24_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF24	ORF46	 0.63	KSHV_ORF24_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF24	ORF61	 0.51	KSHV_ORF24_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF24	 ORF7	 0.51	KSHV_ORF24_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF25	ORF25	 0.77	KSHV_ORF25_KSHV_ORF25_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF25	ORF65	 0.72	KSHV_ORF25_KSHV_ORF65_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF26	ORF26	 0.72	KSHV_ORF26_KSHV_ORF26_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF26	ORF62	 0.67	KSHV_ORF26_KSHV_ORF62_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF26	ORF64	 0.49	KSHV_ORF26_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF27	ORF50	  0.5	KSHV_ORF27_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF27	ORF58	 0.89	KSHV_ORF27_KSHV_ORF58_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF27	ORF59	 0.52	KSHV_ORF27_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF28	ORF36	  0.6	KSHV_ORF28_KSHV_ORF36_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF28	ORF59	 0.63	KSHV_ORF28_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF29	ORF68	 0.74	KSHV_ORF29_KSHV_ORF68_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF29	 ORF7	 0.81	KSHV_ORF29_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF30	ORF56	 0.52	KSHV_ORF30_KSHV_ORF56_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF30	ORF64	 0.49	KSHV_ORF30_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF31	ORF42	 0.49	KSHV_ORF31_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF32	ORF33	 0.76	KSHV_ORF32_KSHV_ORF33_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF32	ORF65	  0.5	KSHV_ORF32_KSHV_ORF65_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF32	ORF74	 0.74	KSHV_ORF32_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF33	ORF36	 0.56	KSHV_ORF33_KSHV_ORF36_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF33	ORF38	 0.77	KSHV_ORF33_KSHV_ORF38_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF33	ORF39	  0.5	KSHV_ORF33_KSHV_ORF39_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF33	ORF45	 0.89	KSHV_ORF33_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF33	ORF50	 0.48	KSHV_ORF33_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF33	ORF72	 0.58	KSHV_ORF33_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF33	 ORF8	 0.61	KSHV_ORF33_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF34	ORF46	 0.74	KSHV_ORF34_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF34	ORF66	 0.74	KSHV_ORF34_KSHV_ORF66_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF34	ORF70	 0.58	KSHV_ORF34_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF34	ORF72	 0.64	KSHV_ORF34_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF34	 ORF9	 0.61	KSHV_ORF34_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF35	ORF64	 0.52	KSHV_ORF35_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF36	ORF36	 0.49	KSHV_ORF36_KSHV_ORF36_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF36	ORF45	 0.56	KSHV_ORF36_KSHV_ORF45_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF36	ORF49	 0.52	KSHV_ORF36_KSHV_ORF49_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF36	ORF75	 0.49	KSHV_ORF36_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF37	 ORF6	 0.73	KSHV_ORF37_KSHV_ORF6_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF37	ORF64	 0.56	KSHV_ORF37_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF37	 ORF7	  0.5	KSHV_ORF37_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF38	ORF54	 0.56	KSHV_ORF38_KSHV_ORF54_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF39	 ORF4	 0.58	KSHV_ORF39_KSHV_ORF4_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF39	ORF42	 0.54	KSHV_ORF39_KSHV_ORF42_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF39	ORF48	 0.48	KSHV_ORF39_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF39	ORF53	 0.72	KSHV_ORF39_KSHV_ORF53_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF4	ORF40	 0.53	KSHV_ORF4_KSHV_ORF40_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF4	ORF48	 0.59	KSHV_ORF4_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF4	ORF58	 0.54	KSHV_ORF4_KSHV_ORF58_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ ORF4	ORF60	 0.78	KSHV_ORF4_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ ORF4	ORF61	 0.64	KSHV_ORF4_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF4	ORF68	 0.49	KSHV_ORF4_KSHV_ORF68_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF4	ORF72	 0.53	KSHV_ORF4_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF40	ORF56	  0.8	KSHV_ORF40_KSHV_ORF56_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF40	ORF59	  0.7	KSHV_ORF40_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF40	ORF64	  0.6	KSHV_ORF40_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF40	ORF70	 0.74	KSHV_ORF40_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF40	ORF73	 0.57	KSHV_ORF40_KSHV_ORF73_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF40	ORF75	 0.54	KSHV_ORF40_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF42	ORF48	 0.71	KSHV_ORF42_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF42	ORF73	 0.58	KSHV_ORF42_KSHV_ORF73_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF42	ORF75	 0.63	KSHV_ORF42_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF43	ORF43	 0.57	KSHV_ORF43_KSHV_ORF43_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF43	ORF48	 0.53	KSHV_ORF43_KSHV_ORF48_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF44	ORF46	 0.76	KSHV_ORF44_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF44	ORF50	 0.58	KSHV_ORF44_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF44	ORF56	 0.84	KSHV_ORF44_KSHV_ORF56_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF44	ORF57	 0.52	KSHV_ORF44_KSHV_ORF57_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF44	ORF67	 0.54	KSHV_ORF44_KSHV_ORF67_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF44	ORF72	 0.63	KSHV_ORF44_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF44	ORF75	 0.64	KSHV_ORF44_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF44	 ORF9	 0.66	KSHV_ORF44_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF45	ORF61	 0.55	KSHV_ORF45_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF45	 ORF7	  0.5	KSHV_ORF45_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF45	ORF72	 0.55	KSHV_ORF45_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF46	ORF46	 0.54	KSHV_ORF46_KSHV_ORF46_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF46	ORF49	 0.81	KSHV_ORF46_KSHV_ORF49_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF46	ORF50	 0.61	KSHV_ORF46_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF46	ORF55	 0.73	KSHV_ORF46_KSHV_ORF55_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF46	ORF73	 0.68	KSHV_ORF46_KSHV_ORF73_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF46	 ORF9	 0.71	KSHV_ORF46_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF47	ORF69	 0.48	KSHV_ORF47_KSHV_ORF69_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF47	ORF72	 0.58	KSHV_ORF47_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF48	ORF68	 0.53	KSHV_ORF48_KSHV_ORF68_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF49	ORF49	 0.87	KSHV_ORF49_KSHV_ORF49_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF49	ORF60	 0.48	KSHV_ORF49_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF50	ORF50	 0.51	KSHV_ORF50_KSHV_ORF50_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF50	ORF67	 0.61	KSHV_ORF50_KSHV_ORF67_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF50	ORF72	 0.74	KSHV_ORF50_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF52	ORF52	 0.52	KSHV_ORF52_KSHV_ORF52_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF52	ORF75	 0.74	KSHV_ORF52_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF54	ORF72	 0.73	KSHV_ORF54_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF54	 ORF8	 0.59	KSHV_ORF54_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF55	 ORF7	 0.55	KSHV_ORF55_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF57	ORF57	 0.65	KSHV_ORF57_KSHV_ORF57_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF57	 ORF6	 0.61	KSHV_ORF57_KSHV_ORF6_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF57	ORF72	 0.48	KSHV_ORF57_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF58	ORF60	 0.73	KSHV_ORF58_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF58	ORF72	  0.5	KSHV_ORF58_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF59	ORF59	 0.66	KSHV_ORF59_KSHV_ORF59_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF59	 ORF9	 0.57	KSHV_ORF59_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ ORF6	 ORF6	 0.55	KSHV_ORF6_KSHV_ORF6_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ ORF6	ORF72	 0.61	KSHV_ORF6_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ ORF6	 ORF9	 0.54	KSHV_ORF6_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF60	ORF60	 0.87	KSHV_ORF60_KSHV_ORF60_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF60	ORF61	 0.82	KSHV_ORF60_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF60	ORF64	 0.69	KSHV_ORF60_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF61	ORF61	 0.84	KSHV_ORF61_KSHV_ORF61_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF61	ORF64	 0.56	KSHV_ORF61_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF61	ORF65	 0.49	KSHV_ORF61_KSHV_ORF65_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF61	ORF72	 0.69	KSHV_ORF61_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF63	ORF64	 0.74	KSHV_ORF63_KSHV_ORF64_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF63	ORF74	 0.52	KSHV_ORF63_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF63	ORF75	 0.56	KSHV_ORF63_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF64	ORF71	 0.73	KSHV_ORF64_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF64	ORF72	  0.5	KSHV_ORF64_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF64	 ORF9	 0.59	KSHV_ORF64_KSHV_ORF9_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF67	ORF69	 0.67	KSHV_ORF67_KSHV_ORF69_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF67	ORF71	 0.53	KSHV_ORF67_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF67A	 ORF7	 0.84	KSHV_ORF67A_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF68	ORF68	  0.7	KSHV_ORF68_KSHV_ORF68_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
+ORF68	ORF74	  0.6	KSHV_ORF68_KSHV_ORF74_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF69	ORF69	 0.54	KSHV_ORF69_KSHV_ORF69_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF69	ORF72	 0.64	KSHV_ORF69_KSHV_ORF72_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ ORF7	 ORF7	 0.67	KSHV_ORF7_KSHV_ORF7_scores_rank_001_alphafold2_multimer_v3_model_2_seed_000	  001
+ORF70	ORF70	 0.87	KSHV_ORF70_KSHV_ORF70_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF70	ORF71	 0.75	KSHV_ORF70_KSHV_ORF71_scores_rank_001_alphafold2_multimer_v3_model_3_seed_000	  001
+ORF71	 ORF8	 0.66	KSHV_ORF71_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ORF72	 ORF8	 0.48	KSHV_ORF72_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000	  001
+ORF73	ORF75	 0.57	KSHV_ORF73_KSHV_ORF75_scores_rank_001_alphafold2_multimer_v3_model_5_seed_000	  001
+ ORF8	 ORF8	 0.51	KSHV_ORF8_KSHV_ORF8_scores_rank_001_alphafold2_multimer_v3_model_4_seed_000	  001
